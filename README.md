@@ -89,7 +89,8 @@
     "bugs": {
         "url": "https://github.com/souhe/reactScrollbar/issues"
     },
-    "homepage": "https://github.com/souhe/reactScrollbar"
+    "homepage": "https://github.com/souhe/reactScrollbar",
+    "bin": {}
 }
 ```
 
